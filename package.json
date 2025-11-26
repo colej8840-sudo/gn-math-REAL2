@@ -1,0 +1,19 @@
+{
+  "name": "gn-math-arcade",
+  "version": "1.0.0",
+  "description": "Premium arcade game library with modern UI",
+  "main": "index.html",
+  "type": "module",
+  "scripts": {
+    "build": "echo 'Static site - no build needed'",
+    "start": "echo 'Ready to deploy'",
+    "dev": "echo 'Development mode'"
+  },
+  "keywords": [
+    "arcade",
+    "games",
+    "gn-math"
+  ],
+  "author": "gn-math",
+  "license": "MIT"
+}
